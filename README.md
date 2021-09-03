@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mayura0001
+- 👋 Hi, I’m Mayura
 - 👀 I’m interested in creating apps, Ai, machine learning, cyber security
 - 🌱 I’m currently learning python, kali linux, 
 - 📫 Contact me on mayura.proacc@gmail.com
