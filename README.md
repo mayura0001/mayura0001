@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Mayura
-- 👀 I’m interested in creating apps, Ai, machine learning, cyber security
-- 🌱 I’m currently learning python, kali linux, 
-- 📫 Contact me on mayura.proacc@gmail.com
+Mayura Jayasinghe
+Expert in Designing Websites, Automation, Artificial Intelligence  
+High skills in Python, Html, CSS, and javascript
+E-mail me at "mayura.proacc@gmail.com"
 
 <!---
 mayura0001/mayura0001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
