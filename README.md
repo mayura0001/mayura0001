@@ -1,9 +1,7 @@
-# Hi, I'm Mayura Hansa 👋
+# Hi, I'm Mayura 👋
 
-👨‍💻 Aspiring Computer Scientist | First-year CS major exploring the world of ML, web development, and AI.  
-🚀 Future entrepreneur | Passionate about building startups and creating real-world impact.  
-🧠 Lifelong learner | Following FreeCodeCamp courses, GCP ML Engineer track, and experimenting with Python projects.  
-🎯 Goal-oriented | Targeting a smooth transfer to the USA/Canada for higher education in CS.  
-🌱 Minimalist mindset | Inspired by ascetic practices and practical productivity in tech and life.  
-
-Feel free to explore my repositories and projects! Let's create, learn, and innovate together.
+💻 First-year Computer Science student  
+🤖 Interested in Machine Learning and Python projects  
+🌐 Learning web development through FreeCodeCamp  
+📚 Exploring AI and GCP ML Engineer topics  
+🌱 Focused on practical skills and real-world projects
